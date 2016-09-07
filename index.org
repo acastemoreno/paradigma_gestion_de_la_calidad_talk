@@ -1,0 +1,192 @@
+#+TITLE: Paradigmas - Gestion de la calidad
+#+SUBTITLE: Docente: Ing. Silva Wilson Jose
+#+DATE: 2016/06/15
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.4.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:dsadsa
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+
+#+FAVICON: images/uni.png
+#+ICON: images/uni.png
+#+HASHTAG: #ParadigmasGestionDeProyectos
+
+
+** Contenido
+- Objetivos
+- Definicion de Paradigma. (Evolución de Concepto)
+- Análisis de los Paradigmas Mediante Ejemplos Reales
+  + Paradigmas Sociales.
+  + Paradigmas en la Educación.
+  + Paradigmas Laborales.
+  + Paradigmas Tecnológicos.
+  + Paradigmas en Ingeniería.
+  + Paradigmas en el Desarrollo de una Empresa.
+  + Paradigmas en Empresas.
+- Conclusiones
+* Objetivos
+- Entender plenamente el concepto de paradigma.
+- Identificar paradigmas en diferentes ámbitos de nuestra vida diaria.
+- Analizar en qué casos es conveniente romper paradigmas.
+- Incentivar al auditorio a profundizar el tema.
+* Definiciones
+- Etimología: (Griego) Prefijo “para”, que significa junto, y “deigma” que se traduce como ejemplo o modelo.
+
+- Inicios: Ejemplo o modelo  seguir.
+
+- Thomas Kuhn: Paradigma Científico, 
+  Interrogantes -> Objetivo. 
+  Cambio de paradigma -> Nuevos conocimientos. (Dramático)
+
+- Paradigma en Ciencias Sociales: Cosmovisión.
+  Creencias, vivencias y valores. -> Comportamiento Social.
+
+* VIDEOS
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* Analisis de Paradigmas mediante ejemplos
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* Paradigmas en la Educación
+- Paradigma Conductista
+- Paradigma Cognitivo
+- Paradigma Histórico Social
+- Paradigma Constructivista
+
+** Paradigma Conductista
+:PROPERTIES:
+:ARTICLE:  smaller
+:END:
+El aprendizaje únicamente ocurre cuando se observa un cambio en el comportamiento, si no hay cambio observable no hay aprendizaje.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 420px
+[[file:images/conductista.png]]
+#+END_CENTER
+El mayor legado del conductismo consiste en sus aportaciones científicas sobre el comportamiento humano.
+
+** Paradigma Cognitivo
+:PROPERTIES:
+:ARTICLE:  smaller
+:END:
+Considera que cada individuo tendrá diferentes representaciones del mundo.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 300px
+[[file:images/cognitivo.png]]
+#+END_CENTER
+Aprender constituye la síntesis de la forma y contenido recibido por las percepciones, las cuales actúan en forma relativa y personal en cada individuo.
+
+** Paradigma Histórico Social
+:PROPERTIES:
+:ARTICLE:  smaller
+:END:
+Explica que el individuo aunque importante no es la única variable en el aprendizaje, su historia personal, su clase social, sus oportunidades sociales, su época histórica, etc. son variables que no solo apoyan el aprendizaje sino que son parte integral de él.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 300px
+[[file:images/historico-social.png]]
+#+END_CENTER
+
+** Paradigma Constructivista
+:PROPERTIES:
+:ARTICLE:  smaller
+:END:
+El aprendizaje no es un sencillo asunto de transmisión y acumulación de conocimientos, sino es un proceso =ACTIVO=.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 300px
+[[file:images/constructivista.png]]
+#+END_CENTER
+Por lo tanto construye conocimientos partiendo de su experiencia e integrándola con la información que recibe.
+
+* Paradigmas en Ingeniería
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** La Ingeniería es una carrea profesional principalmente para hombres.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria1.png]]
+#+END_CENTER
+
+** Un Ingeniero Mecánico debe saber arreglar todo tipo de carros.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria2.png]]
+#+END_CENTER
+
+** El diseño y los ensayos deben estar basados en normas específicas para cada área de trabajo.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria3.png]]
+#+END_CENTER
+
+** Es mejor basarse en modelos pre-establecidos que innovar en alguna rama de la Ingenieria
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria4.png]]
+#+END_CENTER
+
+** Un Ingeniero de la UNI no es apto para asumir cargos genereciales en una empresa
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria5.png]]
+#+END_CENTER
+
+** EL uso de sofware de Ingeniería debe ser limitado, ya que nos vuelve dependientes de una máquina.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/ingenieria6.png]]
+#+END_CENTER
+
+* Paradigmas en empresas
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+** 
+Hoy en día organizaciones intentan acabar con ciertos paradigmas con los que han ido trabajando hace mucho tiempo.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/algunas_empresas1.png]]
+#+END_CENTER
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700pxW
+[[file:images/algunas_empresas2.png]]
+#+END_CENTER
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/algunas_empresas3.png]]
+#+END_CENTER
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/algunas_empresas4.png]]
+#+END_CENTER
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/algunas_empresas5.png]]
+#+END_CENTER
+
+* Gracias
+  :PROPERTIES:
+  :SLIDE: thank-you-slide segue
+  :ASIDE: right
+  :ARTICLE: flexbox vleft auto-fadein
+  :END:
