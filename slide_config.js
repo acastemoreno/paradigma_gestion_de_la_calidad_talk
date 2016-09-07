@@ -64,5 +64,5 @@ var SLIDE_CONFIG = {
      twitter: '', 
      www: '', 
      github: '', 
-   }]
+  }]
 };

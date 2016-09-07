@@ -45,14 +45,14 @@
 - Paradigma en Ciencias Sociales: Cosmovisión.
   Creencias, vivencias y valores. -> Comportamiento Social.
 
-* VIDEOS
+* Analisis de Paradigmas mediante ejemplos
   :PROPERTIES:
   :SLIDE:    segue dark quote
   :ASIDE:    right bottom
   :ARTICLE:  flexbox vleft auto-fadein
   :END:
 
-* Analisis de Paradigmas mediante ejemplos
+* Paradigmas Sociales
   :PROPERTIES:
   :SLIDE:    segue dark quote
   :ASIDE:    right bottom
