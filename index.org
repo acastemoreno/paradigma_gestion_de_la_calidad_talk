@@ -16,7 +16,7 @@
 #+HASHTAG: #ParadigmasGestionDeProyectos
 
 
-** Contenido
+* Contenido
 - Objetivos
 - Definicion de Paradigma. (Evolución de Concepto)
 - Análisis de los Paradigmas Mediante Ejemplos Reales
@@ -27,7 +27,7 @@
   + Paradigmas en Ingeniería.
   + Paradigmas en el Desarrollo de una Empresa.
   + Paradigmas en Empresas.
-- Conclusiones
+
 * Objetivos
 - Entender plenamente el concepto de paradigma.
 - Identificar paradigmas en diferentes ámbitos de nuestra vida diaria.
@@ -124,7 +124,7 @@ Como señalan Lastres y Albagli ([[http://www.uff.br/ppgci/editais/saritalivro.p
 - Disminución creciente del costo unitario de producción
 
 ** 
-De acuerdo a estas caracteristicas, consideran 5 periodos, cada uno caracterizado por un paradigma diferente:
+Se consideran 5 periodos, cada uno caracterizado por un paradigma diferente:
 1. Entre 1770 y 1840, insumos claves: algodon y hierro fundido; auge textil, fundición y laminacion de metales ferrosos.
 2. Hasta a 1890, dominio de maquinas a vapor y ferrocarril
 3. Hasta la depresión de 1929. Dominio de la energia eléctrica; factor clave: aceros; ingenieria.
@@ -139,6 +139,13 @@ El cambio de paradigma en tecnologia se caracteriza por los siguiente proceso.[f
 3. Se desarrollan nuevas formas de generar y de transmitir conocimientos.
 4. Emergen nuevas formas de comercialización.
 5. Se producen cambios radicales en la organización de las empresas y las instituciones públicas y privadas.
+
+** [[https://www.youtube.com/watch?v=8pTEmbeENF4][The Future of Programing]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 650px
+[[file:images/future.png]]
+#+END_CENTER
+
 
 * Paradigmas en Ingeniería
   :PROPERTIES:
@@ -191,7 +198,22 @@ El cambio de paradigma en tecnologia se caracteriza por los siguiente proceso.[f
   :END:
 
 ** Emprendimiento!
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/emprendedor1.png]]
+#+END_CENTER
 
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/emprendedor2.png]]
+#+END_CENTER
+
+** 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/emprendedor3.png]]
+#+END_CENTER
 
 * Paradigmas en empresas
   :PROPERTIES:

@@ -16,7 +16,49 @@ var SLIDE_CONFIG = {
  
    // Author information
    presenters: [{
+     name: 'Del Mar Rodriguez, Brian', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
+     name: 'Salinas Ponce JOhan', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
+     name: 'Castellano Moreno, Albert', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
      name: 'Albert Castellano', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
+     name: 'Gomez Lazaro, Cristian', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
+     name: 'Artezano Rojas, Jerson', 
+     company: '', 
+     gplus: '', 
+     twitter: '', 
+     www: '', 
+     github: '', 
+   },{
+     name: 'Almidon Malpartida, Christiam', 
      company: '', 
      gplus: '', 
      twitter: '', 
