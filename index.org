@@ -108,6 +108,38 @@ El aprendizaje no es un sencillo asunto de transmisión y acumulación de conoci
 #+END_CENTER
 Por lo tanto construye conocimientos partiendo de su experiencia e integrándola con la información que recibe.
 
+* Paradigmas Tecnologicos
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** 
+El concepto de =paradigma tecnológico= intenta captar un =conjunto de reglas o principios= que =guían= a las =decisiones tecnológicas y de inversión= en un período de tiempo determinado. A largo plazo, cada paradigma es sustituido por uno nuevo, lo que produce enormes cambios en la organización social y las relaciones económicas.
+
+Como señalan Lastres y Albagli ([[http://www.uff.br/ppgci/editais/saritalivro.pdf][INFORMAÇÃO  E  GLOBALIZAÇÃO NA  ERA  DO  CONHECIMENTO]] PAG 32) existen tres elementos que caracterizan el desarrollo de un nuevo paradigma:
+- Amplias posibilidades de aplicación de nuevas tecnologías
+- Demanda creciente
+- Disminución creciente del costo unitario de producción
+
+** 
+De acuerdo a estas caracteristicas, consideran 5 periodos, cada uno caracterizado por un paradigma diferente:
+1. Entre 1770 y 1840, insumos claves: algodon y hierro fundido; auge textil, fundición y laminacion de metales ferrosos.
+2. Hasta a 1890, dominio de maquinas a vapor y ferrocarril
+3. Hasta la depresión de 1929. Dominio de la energia eléctrica; factor clave: aceros; ingenieria.
+4. hasta mediados de 70s, aceros, complejos automotor y petroquimica.
+5. Hasta la actualidad, paradigma dominado por las tecnologias de la información. Microelectronica, Informática, telecomunicaciones, robotica, sofware.
+
+** 
+El cambio de paradigma en tecnologia se caracteriza por los siguiente proceso.[fn:1]
+
+1. Aparecen sectores inexistentes previamente.
+2. Se desarrollan nuevas tecnologías de proceso y de producto.
+3. Se desarrollan nuevas formas de generar y de transmitir conocimientos.
+4. Emergen nuevas formas de comercialización.
+5. Se producen cambios radicales en la organización de las empresas y las instituciones públicas y privadas.
+
 * Paradigmas en Ingeniería
   :PROPERTIES:
   :SLIDE:    segue dark quote
@@ -151,6 +183,16 @@ Por lo tanto construye conocimientos partiendo de su experiencia e integrándola
 [[file:images/ingenieria6.png]]
 #+END_CENTER
 
+* Paradigmas en el desarrollo Empresarial
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Emprendimiento!
+
+
 * Paradigmas en empresas
   :PROPERTIES:
   :SLIDE:    segue dark quote
@@ -160,27 +202,27 @@ Por lo tanto construye conocimientos partiendo de su experiencia e integrándola
 ** 
 Hoy en día organizaciones intentan acabar con ciertos paradigmas con los que han ido trabajando hace mucho tiempo.
 #+BEGIN_CENTER
-#+ATTR_HTML: :width 700px
+#+ATTR_HTML: :width 800px
 [[file:images/algunas_empresas1.png]]
 #+END_CENTER
 ** 
 #+BEGIN_CENTER
-#+ATTR_HTML: :width 700pxW
+#+ATTR_HTML: :width 800pxW
 [[file:images/algunas_empresas2.png]]
 #+END_CENTER
 ** 
 #+BEGIN_CENTER
-#+ATTR_HTML: :width 700px
+#+ATTR_HTML: :width 800px
 [[file:images/algunas_empresas3.png]]
 #+END_CENTER
 ** 
 #+BEGIN_CENTER
-#+ATTR_HTML: :width 700px
+#+ATTR_HTML: :width 800px
 [[file:images/algunas_empresas4.png]]
 #+END_CENTER
 ** 
 #+BEGIN_CENTER
-#+ATTR_HTML: :width 700px
+#+ATTR_HTML: :width 800px
 [[file:images/algunas_empresas5.png]]
 #+END_CENTER
 
@@ -190,3 +232,7 @@ Hoy en día organizaciones intentan acabar con ciertos paradigmas con los que ha
   :ASIDE: right
   :ARTICLE: flexbox vleft auto-fadein
   :END:
+
+* Footnotes
+
+[fn:1] Yoguel, Gabriel (2000). Economia de la tecnologia y de la Innovacion. Carpeta de Trabajo. Universidad de Quilmes. Agosto 2000. Maestria en Ciencia, Tecnologia y Sociedad.
